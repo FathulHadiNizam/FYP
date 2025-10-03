@@ -75,4 +75,8 @@ The project set out to:
 ---
 
 ## 📂 Repository Structure  
+├── README.md          # Project overview
+├── FYP_REPORT.pdf     # Full final report
+├── images/            # Figures & graphs from report
+
 
