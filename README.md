@@ -74,8 +74,26 @@ The goal is to evaluate **durability, stability, and sensing performance** of CP
 
 ---
 
-## 📂 Repository Structure  
-This repository keeps things **simple and combined**:  
+## 📚 Content Structure  
+- **Abstract** – Summary of research, methods, and findings.  
+- **Introduction** – Background, problem statement, objectives, and scope.  
+- **Literature Review** – Review of conductive polymers, graphene, CNTs, TPU, and thermal/creep behaviors.  
+- **Methodology** – Materials, fabrication, torsion tests, creep tests, electrical characterization, microscopy.  
+- **Results & Analysis** – Resistance vs torsion cycles, resistance vs creep, thermal variation, surface morphology.  
+- **Conclusion** – Main findings on CPC performance under dynamic loading.  
+- **Recommendations** – Suggestions for material optimization, extended testing, and integration into flexible electronics.  
+- **References** – Key cited works.  
+
+---
+
+## 📜 References  
+- Claypole, T. C., et al. (2021). *Stretchable carbon and silver inks for wearable applications.* Nanomaterials, 11(5), 1200.  
+- Kamarudin, M. A., et al. (2020). *Green strategies to print sensors for healthcare applications.* Polymer Reviews, 61(1), 116–156.  
+- Saidina, D. S., et al. (2019). *Graphene-based inks for flexible electronics.* Journal of Electronic Materials, 48(6), 3428–3450.  
+
+---
+
+✨ This README serves as both a **documentation** of the FYP research and a **reference** for future work in **flexible electronics & strain sensors**.  
 
 
 
